@@ -1,0 +1,1 @@
+this is the text written by ex buffered writter by java
